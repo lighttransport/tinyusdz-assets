@@ -1,0 +1,2 @@
+# tinyusdz-assets
+USD assets 
